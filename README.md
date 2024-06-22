@@ -1,5 +1,6 @@
-
+![github-header-image (1)](https://github.com/leocucinell/leocucinell/assets/67774380/52b0c062-387c-487e-9ced-d5dda67a0ba3)
 <!--
+
 **leocucinell/leocucinell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
