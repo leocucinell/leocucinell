@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="878" alt="Screenshot 2024-06-22 at 7 18 39 AM" src="https://github.com/leocucinell/leocucinell/assets/67774380/60c7e4e2-a0c5-4624-9899-01dd405c9ed9">
 
 <!--
 **leocucinell/leocucinell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
