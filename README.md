@@ -4,7 +4,7 @@
 - Pronouns: **he/him**
 - LinkedIn: https://www.linkedin.com/in/leocucinell/
 
-## 👾 Heres some Github stats 
+## 👾 Here are some Github stats 
 <!--- stats & Trophy (start) -->
 
 <p align="left">
