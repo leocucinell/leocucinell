@@ -1,3 +1,9 @@
+# Hi there, I'm Leo
+## About me
+- I am a problem solver who likes programming. I live in Bend Oregon and attended college at the University of Oregon, go Ducks! In my free time, I enjoy spending time outdoors by skiing & snowboarding or swimming.
+- Pronouns: **he/him**
+- LinkedIn: https://www.linkedin.com/in/leocucinell/
+
 <!--- stats & Trophy (start) -->
 
 <p align="left">
